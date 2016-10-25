@@ -4,7 +4,9 @@
     "target_path": "device/lge/g4-common"
   },
   {
-    "repository": "proprietary_vendor_lge",
-    "target_path": "vendor/lge"
+    "repository": "TheMuppets/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "remote": "github",
+    "branch": "cm-14.0"
   }
 ]
