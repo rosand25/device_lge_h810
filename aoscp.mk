@@ -1,6 +1,6 @@
 $(call inherit-product, device/lge/h811/full_h811.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common AOSCP stuff.
 $(call inherit-product, vendor/aoscp/configs/common_full_phone.mk)
 
 # Enhanced NFC
