@@ -1,3 +1,3 @@
-add_lunch_combo cm_h811-userdebug
-add_lunch_combo cm_h811-user
-add_lunch_combo cm_h811-eng
+add_lunch_combo cm_h810-userdebug
+add_lunch_combo cm_h810-user
+add_lunch_combo cm_h810-eng
